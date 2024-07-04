@@ -26,7 +26,7 @@ Gestures include:
 - hello
 
 The images are preprocessed by resizing them to 64x64 pixels and converting them to RGB format. The dataset is split into training (80%) and testing (20%) sets.
-PS (Full Disclosure) - Used Claude AI for some assistance and fine tunning.
+- PS (Full Disclosure) - Used Claude AI for some assistance and fine tunning.
 
 ## Usage
 
